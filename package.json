@@ -1,0 +1,14 @@
+{
+  "name": "commerce-module",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/StudioRotate/commerce-module",
+  "author": "Rotate",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "js-cookie": "^2.2.1",
+    "normalize": "^0.3.1",
+    "vue": "^2.6.12"
+  }
+}
